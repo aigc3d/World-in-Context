@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="24" viewBox="0 0 76 24" role="img" aria-labelledby="title">
+  <title id="title">Report</title>
+  <rect width="76" height="24" rx="3" fill="#b5212f"/>
+  <g transform="translate(6 5)" fill="none" stroke="#fff" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1.5.75h7l3.75 3.75v8.75H1.5zM8.5.75V4.5h3.75M4 7.5h5.5M4 10.25h5.5"/>
+  </g>
+  <text x="26" y="16" fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11">Report</text>
+</svg>
