@@ -4,7 +4,7 @@
 
 **In-Context Conditioning for Interactive Video World Models**
 
-<img src="assets/logo.png" alt="Alibaba Token Hub" width="20" height="20" align="absmiddle">&nbsp;<strong>Alibaba Token Hub, Alibaba Group</strong>
+<img src="assets/logo.png" alt="Alibaba Token Hub" width="20" height="20" align="absmiddle">&nbsp;Alibaba Token Hub, Alibaba Group
 
 [![Website](assets/badge-website.svg)](https://haroldchen19.github.io/WiC-site)
 [![Report](assets/badge-paper.svg)](https://github.com/aigc3d/World-in-Context)
