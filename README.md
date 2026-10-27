@@ -2,12 +2,12 @@
 
 # World-in-Context
 
-**In-Context Conditioning for Interactive Video World Models**
+**Interactive Video World Modeling with In-Context Conditioning**
 
 <img src="assets/logo.png" alt="Alibaba Token Hub" width="20" height="20" align="absmiddle">&nbsp;Alibaba Token Hub, Alibaba Group
 
 [![Website](assets/badge-website.svg)](https://haroldchen19.github.io/WiC-site)
-[![Report](assets/badge-paper.svg)](https://github.com/aigc3d/World-in-Context)
+[![Report](assets/badge-paper.svg)](https://arxiv.org/abs/2610.33169)
 
 </div>
 
@@ -93,9 +93,9 @@ The per-GPU batch is one clip; adjust `gradient_accumulation_steps` for the effe
 
 ```bib
 @article{chen2026world,
-  title={World-in-Context: In-Context Conditioning for Interactive Video World Models},
+  title={World-in-Context: Interactive Video World Modeling with In-Context Conditioning},
   author={Chen, Harold Haodong and Peng, Rui and Guo, Rongjin and Qiu, Lingteng and Qiu, Kejie and Xu, Chao and Dong, Zilong},
-  journal={arXiv preprint arXiv:TBD},
+  journal={arXiv preprint arXiv:2610.33169},
   year={2026}
 }
 ```
